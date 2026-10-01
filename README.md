@@ -78,4 +78,4 @@ npm run dev
 - [ ] Integrate Google Cloud Vision for live camera object detection.
 - [ ] Implement User Dashboard for saving favorite items and viewing search history.
 
-*Developed by Antigravity AI.*
+
